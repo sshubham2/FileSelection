@@ -18,5 +18,5 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = ""
-"Bug Tracker" = ""
+"Homepage" = "https://github.com/sshubham2/FileSelection"
+"Bug Tracker" = "https://github.com/sshubham2/FileSelection/issues"
